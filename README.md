@@ -14,8 +14,8 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
         <td> 2013 - 2017 </td>
         <td> 
             Engenharia da Computação <br /> 
-            Universidade do Norte do Paraná, UNOPAR <br />
-            cursando <br /> 
+            Universidade do Norte do Paraná/Londrina <br />
+            Cursando... 
 	</td>
     </tr>
     <tr>
