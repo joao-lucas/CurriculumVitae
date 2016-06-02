@@ -23,8 +23,8 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
     <tr>
         <td> 2014 - 2016 </td>
         <td> 
-            Técnico em Redes de Computadores <br /> 
-            Faculdade Pitagoras/Londrina (1200horas) <br />
+            Técnico em Redes de Computadores (1200horas) <br /> 
+            Faculdade Pitagoras/Londrina <br />
         </td>
     </tr>
     <tr>
@@ -39,24 +39,24 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
     <tr>
         <td> 2006 </td>
         <td> 
-            Hardware & Redes de Computadores <br />
-            6PTelecom/Primeiro de Maio (360horas)
+            Hardware & Redes de Computadores (360horas) <br />
+            6PTelecom/Primeiro de Maio 
         </td>
     </tr>
 
     <tr>
         <td> nov./2013 - dez./2013 </td>
         <td> 
-            Programador de Sistemas <br />
-            SENAI/Londrina (200horas)
+            Programador de Sistemas (200horas) <br />
+            SENAI/Londrina
         </td>
     </tr> 
 
     <tr>
         <td> jan./2014 - fev./2014 </td>
         <td> 
-            Programação Java para Desenvolvimento Web <br />
-            SENAI/Londrina (80horas)
+            Programação Java para Desenvolvimento Web (80horas) <br />
+            SENAI/Londrina
         </td>
     </tr>
 
@@ -71,8 +71,8 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
     <tr>
       <td> fev./2011 - dez./2012 </td>
       <td>
-           Língua Estrangeira Moderna(Espanhol)  <br />
-           CELEM/Primeiro de Maio (320horas)
+           Língua Estrangeira Moderna/Espanhol (320horas)  <br />
+           CELEM/Primeiro de Maio
         </td>
     </tr>
 
@@ -87,6 +87,7 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
 ## Links
 
 <table>
+	<tr><td>E-mail: joaolucas@linuxmail.org</td></tr>
 	<tr><td>Github: github.com/joao-lucas</td></tr>
 	<tr><td>Linkedin: br.linkedin.com/in/joaolucasouza</td></tr>
 </table>
