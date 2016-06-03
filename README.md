@@ -36,7 +36,7 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
 <table>
 
     <tr>
-        <td> 2006 </td>
+        <td> 2006 - 2007 </td>
         <td> 
             Hardware & Redes de Computadores (360horas) <br />
             6PTelecom/Primeiro de Maio 
