@@ -6,7 +6,6 @@ Trabalhar na área de Tecnologia da Informação, ou, ocupar o cargo de Analista
 ## Competências Profissionais
 Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, disponibilidade para horário integral.
 
-
 ## Formação Acadêmica
 
 <table>
@@ -45,15 +44,23 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
     </tr>
 
     <tr>
-        <td> nov./2013 - dez./2013 </td>
+        <td> 2013 </td>
         <td> 
             Programador de Sistemas (200horas) <br />
             SENAI/Londrina
         </td>
     </tr> 
 
+    <tr> 
+
     <tr>
-        <td> jan./2014 - fev./2014 </td>
+        <td> 2016 </td>
+        <td> 
+            ShellScript  <br />
+            Udemy/EAD, url: ude.my/UC-F1PB0JU9
+        </td>
+    </tr>
+     <td> 2014 - fev./2014 </td>
         <td> 
             Programação Java para Desenvolvimento Web (80horas) <br />
             SENAI/Londrina
@@ -61,15 +68,7 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
     </tr>
 
     <tr>
-        <td> mar./2016 </td>
-        <td> 
-            Programação ShellScript  <br />
-            Udemy/EAD, url: ude.my/UC-F1PB0JU9
-        </td>
-    </tr>
-
-    <tr>
-      <td> fev./2011 - dez./2012 </td>
+      <td> 2011 - 2012 </td>
       <td>
            Língua Estrangeira Moderna/Espanhol (320horas)  <br />
            CELEM/Primeiro de Maio
@@ -81,7 +80,7 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
 ## Conhecimentos Básicos
 
 <table>
-	<tr><td> Linux, Github, ShellScript, C, Java e Windows</td></tr>
+	<tr><td> Administração de Sistemas GNU/Linux, ShellScript, MySQL, Backup, C, Java e Windows </td></tr>
 </table>
 
 ## Links
