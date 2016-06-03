@@ -87,12 +87,13 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
 
 ## Conhecimentos Básicos
 <table>
-	<tr><td> Linux, Github, ShellScript, C, Java e Windows</td></tr>
+	<tr><td> Administração de Sistemas GNU/Linux, ShellScript, MySQL, Backup, Github, C, Java e Windows</td></tr>
 </table>
 
 ## Links
 
 <table>
+	<tr><td>Email: joaolucas@linuxmail.org</td></tr>
 	<tr><td>Github: github.com/joao-lucas</td></tr>
 	<tr><td>Linkedin: br.linkedin.com/in/joaolucasouza</td></tr>
 </table>
