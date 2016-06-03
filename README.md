@@ -60,7 +60,7 @@ Com espírito de equipe, iniciativa, responsabilidade, boa comunicação, dispon
             Udemy/EAD, url: ude.my/UC-F1PB0JU9
         </td>
     </tr>
-     <td> 2014 - 2014 </td>
+    	<td> 2013 - 2014 </td>
         <td> 
             Programação Java para Desenvolvimento Web (80horas) <br />
             SENAI/Londrina
